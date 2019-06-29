@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> COINTIMES - Cópia </title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=yes">
+	<link rel="stylesheet" type="text/css" href="css/normalize.css">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.min.css">
+</head>
+<body>
+	<!-- INICIO TOPO -->
+<header class="topo">
+	<div class="top-bar">
+		<ul>
+			
+		</ul>
+	</div>
+	<nav class="top-menu">
+		<span class="top-menu-logo" title="Logo COINTIMES"><a href="#"><img src="img/logo.png"></a></span>
+		<span class="top-menu-btn1"> <i class="fas fa-bars"></i> </span>
+	</nav>
+</header>
+<!-- FIM TOPO -->
+
+<!-- INICIO CONTEUDO -->
+<main class="conteudo">
+	
+</main>
+<!-- FIM CONTEUDO -->
+
+<!-- INICIO RODAPE -->
+<footer class="rodape">
+	
+</footer>
+<!-- INICIO RODAPE -->
+
+</body>
+</html>
